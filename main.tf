@@ -260,7 +260,6 @@ output "memory" {
         value = var.memory
 }
 
-
 variable "organization" {
   type = string
 }
